@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student at CTBE(AAiT)<br/>
 🌱 Currently learning Web Dev<br/>
-💡 Passionate about problem-solving, open-source, and tech innovation<br/>
+💡 Passionate about problem solving, open source, and tech innovation<br/>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
